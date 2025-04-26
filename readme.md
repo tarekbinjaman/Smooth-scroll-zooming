@@ -97,7 +97,7 @@ It scales bigger when you scroll, because of the scale: scale style.
 
 
 
-sample code
+## Full code:
 ~~~
 const Home = () => {
     const { scrollYProgress } = useScroll();
